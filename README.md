@@ -3,7 +3,7 @@
  {
     “💪🏻 Name” : “Rodrigo Ramírez López”,
     “🖥️ Role” : “Programmer”,
-    “🧠 Learning” : “Python”,
-    “🎮 Hobby” : “Games Developer”
+    “🧠 Learning” : “C#”,
+    “🎮 Hobby” : “Game Development”
  }
 ```
